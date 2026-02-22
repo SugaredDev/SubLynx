@@ -1,0 +1,9 @@
+{
+  "name": "sublynx",
+  "version": "1.0.0",
+  "displayName": "SubLynx",
+  "description": "Simple and minimal solution for triggering any function everytime a Unity variable of your choice changes its value.",
+  "author": {
+    "name": "Dawid \"Sugared\" Szarek"
+  }
+}
